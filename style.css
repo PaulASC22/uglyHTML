@@ -1,0 +1,22 @@
+body {
+    background: black;
+}
+
+h1 {
+    text-align: center;
+    color:orange;
+    background-color:darkblue;
+}
+
+h2 {
+    color: white;
+    font-size: 110%;
+    text-align:left;
+
+}
+
+div {
+    text-align: center;
+    font-style: "Courier New";
+    line-height: 2;
+}
